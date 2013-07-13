@@ -1,0 +1,7 @@
+{% extends "/email/layouts/default.html" %}
+{% block content %}
+<h3>Hi, {$ newUser.name $}</h3>
+<p class="lead">Thankyou for registering with Winners Bible.</p>
+<p>To complete your registration and activate your account, please click the confirmation link below.</p>
+<p class="callout"><a href="{$ rootUrl $}/registration/confirmation/{$ newUser.confirmationCode $}">Activate account</a></p>
+{% endblock %}
