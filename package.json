@@ -1,0 +1,16 @@
+{
+  "name": "winnersbible-mailer",
+  "version": "0.0.1",
+  "author": "Michael Robinso <mike@pagesofinterest.net>",
+  "description": "Module used to allow simple sharing of mailing behaviour and templates between main and api sites",
+  "contributors": [
+    {
+      "name": "Michael Robinson",
+      "email": "mike@pagesofinterest.net"
+    }
+  ],
+  "dependencies": {
+    "nunjucks": "0.1.x",
+    "nodemailer": "0.5.x"
+  }
+}
