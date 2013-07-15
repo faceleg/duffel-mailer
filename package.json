@@ -1,7 +1,7 @@
 {
-  "name": "winnersbible-mailer",
+  "name": "duffel-mailer",
   "version": "0.0.1",
-  "author": "Michael Robinso <mike@pagesofinterest.net>",
+  "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Module used to allow simple sharing of mailing behaviour and templates between main and api sites",
   "contributors": [
     {
