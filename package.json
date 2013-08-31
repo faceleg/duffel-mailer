@@ -1,6 +1,6 @@
 {
   "name": "duffel-mailer",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Module used to allow simple sharing of mailing behaviour and templates between main and api sites",
   "contributors": [
@@ -10,7 +10,7 @@
     }
   ],
   "dependencies": {
-    "nunjucks": "0.1.x",
+    "nunjucks": "git://github.com/jlongster/nunjucks.git#master",
     "nodemailer": "0.5.x"
   }
 }
