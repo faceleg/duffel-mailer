@@ -1,8 +1,8 @@
 {
   "name": "duffel-mailer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
-  "description": "Module used to allow simple sharing of mailing behaviour and templates between main and api sites",
+  "description": "Module allowing simple-as-possible emailing from a typical website",
   "contributors": [
     {
       "name": "Michael Robinson",
