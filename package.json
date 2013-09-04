@@ -1,8 +1,12 @@
 {
   "name": "duffel-mailer",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": "Michael Robinson <mike@pagesofinterest.net>",
   "description": "Module allowing simple-as-possible emailing from a typical website",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrownPaperBag/duffel-mailer"
+  },
   "contributors": [
     {
       "name": "Michael Robinson",
