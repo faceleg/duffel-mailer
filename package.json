@@ -5,7 +5,7 @@
   "description": "Module allowing simple-as-possible emailing from a typical website",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrownPaperBag/duffel-mailer"
+    "url": "https://github.com/faceleg/duffel-mailer"
   },
   "contributors": [
     {
